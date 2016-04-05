@@ -185,11 +185,7 @@
     <string name="lockscreen_shortcuts_double_tap">Doppio tap</string>
     <string name="lockscreen_shortcuts_longpress">Pressione prolungata</string>
     <string name="help">Aiuto</string>
-<<<<<<< HEAD
     <string name="shortcut_action_app">Custom app</string>
-=======
-    <string name="shortcut_action_app">Applicazione personalizzata</string>
->>>>>>> refs/remotes/origin/mm6.0
     <string name="shortcut_action_app">Applicazione personalizzata</string>
     <string name="shortcut_action_home">Home</string>
     <string name="shortcut_action_back">Indietro</string>
